@@ -1,6 +1,9 @@
+## Final Code
 Final code can be found here: main branch -> analysis folder -> analysis.ipynb
+ - the other files in the analysis folder are the visualizations
 
-link to slidedeck: https://docs.google.com/presentation/d/1NVidnC4oTcPAbvYD8ipQgMAOBNioFi7R8lPNMIzesfQ/edit?usp=sharing
+## Link to slidedeck
+https://docs.google.com/presentation/d/1NVidnC4oTcPAbvYD8ipQgMAOBNioFi7R8lPNMIzesfQ/edit?usp=sharing
 
 
 ## Summary and Analysis
