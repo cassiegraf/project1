@@ -1,3 +1,10 @@
 link to slidedeck: https://docs.google.com/presentation/d/1NVidnC4oTcPAbvYD8ipQgMAOBNioFi7R8lPNMIzesfQ/edit?usp=sharing
 
-
+Introduction
+The car industry is fiercely competitive, with various factors influencing consumer preferences and purchasing decisions. Our goal is to open our own dealership in Mumbai and we are using out cardetails dataset to help suport our decision making choices within this market place. One significant factor is the make/brand of a car, which plays a crucial role in determining sales figures. We aim to explore the relationship between car make and sales, examining how brand reputation affects consumer behavior.
+Brand Name (Make):
+the Brand name is a critical factor that impacts car sales. Established brands with a reliable track record and psoitive customer experiences will enjoy a competitive advantage. Wells -established brands are perceived as more trustworthy, leading  consumers to choose them over lesser-known or emerging brands. Within our dataset, we have found that Hyundai and Maruti Suzuki have nearly twice as many sales as their other leading competitors (Mercedes-Benz, Honda, Toyota). This marketplace as has shown a shift towards econony brands with consistently higher sales
+Location
+Big cities have diverse demographics, including varying income levels, age groups, and cultural backgrounds. This can influence the car sales by multible factors. With our dataset cleaned to Mumbai, we have seen that factors aside from make have carried through to our car buyers. We can see tha most purchases were made withing lower end price ranges and this is consistent with higher sales of economy vehicles. We are looking to sell used vehicles and buyers are willing to up to 60K before interest decreases on the vehicle. The vehicle preference also shows a sharp decrease in sales by the number of previous owners. Lastly, more than half of the auto purchases are made by neutral colors (white, sivler, gray).
+Conclusion
+The influence of the car make on sales figures should not be underestimated. When deciding to buy a car, consumers consider various important factors, including price, color, number of previous owners, make and the number of kilometers on the car's odometer. To find success in our flagship store, we need to consider this when we are choosing the vehicles we are putting on our lot. 
